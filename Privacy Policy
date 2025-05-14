@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy for Everly App</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        h1 {
+            font-size: 24px;
+            color: #333;
+            margin-bottom: 10px;
+        }
+        h2 {
+            font-size: 20px;
+            color: #333;
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+        h3 {
+            font-size: 18px;
+            color: #333;
+            margin-top: 15px;
+            margin-bottom: 10px;
+        }
+        h4 {
+            font-size: 16px;
+            color: #333;
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+        p {
+            margin-bottom: 10px;
+        }
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
+        li {
+            margin-bottom: 5px;
+        }
+        strong {
+            font-weight: bold;
+        }
+        em {
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
+    <p><strong>Last updated: May 14, 2025</strong></p>
+
+    <h2>Summary of Key Points</h2>
+    <ul>
+        <li>We collect personal information like your name, email, location (with permission), and usage data to provide and improve the Everly App.</li>
+        <li>Your data is used to operate the app, personalize your experience, and communicate with you.</li>
+        <li>We may share your data with service providers, business partners, and affiliates, who are required to protect it.</li>
+        <li>You have rights to access, correct, delete, and port your data, among others.</li>
+        <li>We use industry-standard security measures, but no system is completely secure.</li>
+        <li>Contact us at support@geostry.com with any questions or to exercise your rights.</li>
+    </ul>
+    <p>This Privacy Policy explains how Geostry LLC collects, uses, and protects your information when you use the Everly App. By using the app, you agree to these practices. You can access this policy anytime in the app’s Settings or About section.</p>
+
+    <h2>Interpretation and Definitions</h2>
+
+    <h3>Interpretation</h3>
+    <p>Words with capitalized initial letters have meanings defined below. These definitions apply whether singular or plural.</p>
+
+    <h3>Definitions</h3>
+    <p>For the purposes of this Privacy Policy:</p>
+    <ul>
+        <li><strong>Account</strong> means a unique account created for you to access our Service or parts of our Service.</li>
+        <li><strong>Affiliate</strong> means an entity that controls, is controlled by, or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest, or other securities entitled to vote for election of directors or other managing authority.</li>
+        <li><strong>Application</strong> refers to Everly App, the software program provided by the Company.</li>
+        <li><strong>Business</strong>, for CCPA/CPRA purposes, refers to Geostry LLC as the entity that collects and processes Consumers’ personal information.</li>
+        <li><strong>CCPA/CPRA</strong> refers to the California Consumer Privacy Act, as amended by the California Privacy Rights Act of 2020.</li>
+        <li><strong>Company</strong> (referred to as "the Company", "We", "Us", or "Our") refers to Geostry LLC, 12605 W North Ave, Suite 302, Brookfield, WI 53005. For GDPR purposes, the Company is the Data Controller.</li>
+        <li><strong>Consumer</strong>, for CCPA/CPRA, means a California resident.</li>
+        <li><strong>Cookies</strong> are small files placed on your device to store information, such as browsing history.</li>
+        <li><strong>Country</strong> refers to Wisconsin, United States.</li>
+        <li><strong>Data Controller</strong>, for GDPR, refers to the Company as the entity determining the purposes and means of processing Personal Data.</li>
+        <li><strong>Device</strong> means any device accessing the Service, such as a computer, cellphone, or tablet.</li>
+        <li><strong>Do Not Track (DNT)</strong> is a mechanism allowing users to control online tracking.</li>
+        <li><strong>Facebook Fan Page</strong> is our public profile at Geostry on Facebook.</li>
+        <li><strong>GDPR</strong> refers to the EU General Data Protection Regulation.</li>
+        <li><strong>Personal Data</strong> is any information relating to an identified or identifiable individual, such as name, email, or location data.</li>
+        <li><strong>Service</strong> refers to the Application or Website (www.geostry.com).</li>
+        <li><strong>Service Provider</strong> means any person or entity processing data on our behalf, considered Data Processors under GDPR.</li>
+        <li><strong>Third-party Social Media Service</strong> refers to websites or social networks through which you can log in or create an account.</li>
+        <li><strong>Usage Data</strong> refers to automatically collected data, like IP addresses or page visit duration.</li>
+        <li><strong>Website</strong> refers to Geostry, accessible at www.geostry.com.</li>
+        <li><strong>You</strong> means the individual or entity using the Service, referred to as the Data Subject under GDPR.</li>
+    </ul>
+
+    <h2>Collecting and Using Your Personal Data</h2>
+
+    <h3>Types of Data Collected</h3>
+
+    <h4>Personal Data</h4>
+    <p>We may collect personally identifiable information, including:</p>
+    <ul>
+        <li>Email address</li>
+        <li>First name and last name</li>
+        <li>Address, State, Province, ZIP/Postal code, City</li>
+        <li>Usage Data</li>
+    </ul>
+
+    <h4>Usage Data</h4>
+    <p>Usage Data is collected automatically and may include:</p>
+    <ul>
+        <li>Device IP address, browser type, and version</li>
+        <li>Pages visited, time and date of visits, time spent on pages</li>
+        <li>Unique device identifiers and diagnostic data</li>
+    </ul>
+    <p>For mobile access, we may collect:</p>
+    <ul>
+        <li>Mobile device type, unique ID, IP address</li>
+        <li>Mobile operating system, browser type, and diagnostic data</li>
+    </ul>
+
+    <h4>Information from Third-Party Social Media Services</h4>
+    <p>You may log in using services like Google, Facebook, Instagram, Twitter, or LinkedIn. We may collect:</p>
+    <ul>
+        <li>Name, email address, activities, or contact list from your social media account</li>
+    </ul>
+    <p>You may choose to share additional information, which we will use and store per this policy.</p>
+
+    <h4>Information Collected While Using the Application</h4>
+    <p>With your permission, we may collect:</p>
+    <ul>
+        <li>Location data to provide location-based features</li>
+        <li>Pictures and data from your device’s camera and photo library</li>
+    </ul>
+    <p>You can enable or disable access via your device settings.</p>
+
+    <h3>Tracking Technologies</h3>
+    <p>We use tracking technologies to collect data and enhance your experience, including:</p>
+    <ul>
+        <li><strong>Advertising Identifiers</strong> (e.g., IDFA on iOS, AAID on Android) for personalized ads</li>
+        <li><strong>Device Identifiers</strong> to recognize your device</li>
+        <li><strong>Third-Party SDKs</strong> (e.g., analytics or crash reporting tools) for app functionality</li>
+        <li><strong>Cookies and Web Beacons</strong> for website interactions</li>
+    </ul>
+    <p>You can manage these via device settings (e.g., iOS: Settings > Privacy > Advertising > Limit Ad Tracking; Android: Settings > Google > Ads > Opt out of Ads Personalization).</p>
+
+    <h3>Use of Your Personal Data</h3>
+    <p>We may use Personal Data to:</p>
+    <ul>
+        <li>Provide and maintain the Service</li>
+        <li>Manage your Account and registration</li>
+        <li>Perform contracts, like purchases</li>
+        <li>Contact you via email, SMS, or push notifications</li>
+        <li>Offer news, special offers, or general information (unless you opt out)</li>
+        <li>Manage your requests</li>
+        <li>Evaluate business transfers (e.g., mergers)</li>
+        <li>Analyze data, identify trends, and improve the Service</li>
+    </ul>
+
+    <h3>Sharing Your Personal Data</h3>
+    <p>We may share your data with:</p>
+    <ul>
+        <li><strong>Service Providers</strong> (e.g., hosting, analytics, payment processors)</li>
+        <li><strong>Business Partners</strong> for product or service offerings</li>
+        <li><strong>Affiliates</strong>, who follow this policy</li>
+        <li><strong>Other Users</strong>, if you share publicly</li>
+        <li><strong>Third-Party Social Media Services</strong>, if you connect accounts</li>
+        <li>With your consent for other purposes</li>
+    </ul>
+
+    <h3>Retention of Your Personal Data</h3>
+    <p>We retain Personal Data only as long as necessary for the purposes in this policy, or as required by law. For example:</p>
+    <ul>
+        <li>Account data is kept while your account is active and for [X] years after deletion, per legal requirements.</li>
+        <li>Usage Data is retained for [Y] months for analytics.</li>
+    </ul>
+    <p>We regularly review retention practices to minimize data storage.</p>
+
+    <h3>Transfer of Your Personal Data</h3>
+    <p>Your data may be processed in the United States or other jurisdictions with different data protection laws. We use safeguards like standard contractual clauses for transfers outside the EEA to ensure protection.</p>
+
+    <h3>Deleting Your Personal Data</h3>
+    <p>You can request deletion of your Personal Data via your Account settings or by contacting us at support@geostry.com. We will delete data unless required by law (e.g., for legal compliance). We respond within 30 days.</p>
+
+    <h3>Disclosure of Your Personal Data</h3>
+    <p>We may disclose data:</p>
+    <ul>
+        <li><strong>Business Transactions</strong>: During mergers or acquisitions, with prior notice</li>
+        <li><strong>Law Enforcement</strong>: If required by law or valid requests</li>
+        <li><strong>Other Legal Requirements</strong>: To comply with obligations, protect rights, or ensure safety</li>
+    </ul>
+
+    <h3>Security of Your Personal Data</h3>
+    <p>We use:</p>
+    <ul>
+        <li>SSL/TLS encryption for data in transit</li>
+        <li>Industry-standard encryption for stored data</li>
+        <li>Access controls for authorized personnel only</li>
+        <li>Regular security audits</li>
+    </ul>
+    <p>No system is 100% secure, but we strive to protect your data.</p>
+
+    <h2>Detailed Information on Data Processing</h2>
+    <p>Service Providers may access your data per their privacy policies. We use:</p>
+    <ul>
+        <li><strong>Google Analytics</strong> for traffic analysis</li>
+        <li><strong>Firebase</strong> for app analytics</li>
+        <li><strong>Google Places</strong> for location data</li>
+    </ul>
+    <p>You can opt out via device settings or Google’s instructions.</p>
+
+    <h2>GDPR Privacy</h2>
+
+    <h3>Legal Basis for Processing</h3>
+    <p>We process Personal Data based on:</p>
+    <ul>
+        <li>Consent</li>
+        <li>Contract performance</li>
+        <li>Legal obligations</li>
+        <li>Vital interests</li>
+        <li>Public interests</li>
+        <li>Legitimate interests</li>
+    </ul>
+    <p>Contact us for clarification on specific bases.</p>
+
+    <h3>Your GDPR Rights</h3>
+    <p>If in the EU, you have the right to:</p>
+    <ul>
+        <li>Access, update, or delete your Personal Data</li>
+        <li>Correct inaccurate data</li>
+        <li>Object to processing</li>
+        <li>Request data portability</li>
+        <li>Withdraw consent</li>
+    </ul>
+    <p>Contact support@geostry.com; we respond within 30 days. You may also contact your local Data Protection Authority.</p>
+
+    <h2>CCPA/CPRA Privacy Notice</h2>
+
+    <h3>Categories of Personal Information Collected</h3>
+    <p>In the last 12 months, we may have collected:</p>
+    <ul>
+        <li><strong>Category A: Identifiers</strong> (e.g., name, email, IP address) – Yes</li>
+        <li><strong>Category B: Customer Records</strong> (e.g., address) – Yes</li>
+        <li><strong>Category F: Internet Activity</strong> (e.g., app interactions) – Yes</li>
+        <li><strong>Category G: Geolocation Data</strong> – Yes</li>
+        <li><strong>Category L: Sensitive Personal Information</strong> (e.g., account login) – Yes</li>
+        <li>Categories C, D, E, H, I, J, K – No</li>
+    </ul>
+
+    <h3>Sources of Personal Information</h3>
+    <ul>
+        <li>Directly from you (e.g., forms)</li>
+        <li>Indirectly (e.g., app usage)</li>
+        <li>Automatically (e.g., cookies)</li>
+        <li>Service Providers (e.g., analytics)</li>
+    </ul>
+
+    <h3>Use of Personal Information</h3>
+    <p>For business or commercial purposes, like:</p>
+    <ul>
+        <li>Operating the Service</li>
+        <li>Providing support</li>
+        <li>Fulfilling requests</li>
+        <li>Legal compliance</li>
+        <li>Security and fraud prevention</li>
+    </ul>
+
+    <h3>Disclosure of Personal Information</h3>
+    <p>We may have disclosed Categories A, B, F, G, and L to:</p>
+    <ul>
+        <li>Service Providers</li>
+        <li>Affiliates</li>
+        <li>Business Partners</li>
+        <li>Authorized third parties</li>
+    </ul>
+
+    <h3>Sharing/Sale of Personal Information</h3>
+    <p>We do not sell personal information as commonly understood but may share data with Service Providers for analytics or advertising, which may be a “sale” under CCPA/CPRA. Categories shared: A, B, F, G, L.</p>
+
+    <h3>Your CCPA/CPRA Rights</h3>
+    <p>California residents have the right to:</p>
+    <ul>
+        <li>Know what data we collect and share</li>
+        <li>Opt out of sales</li>
+        <li>Correct inaccurate data</li>
+        <li>Limit sensitive data use</li>
+        <li>Delete data (with exceptions)</li>
+        <li>Non-discrimination</li>
+    </ul>
+    <p>Contact support@geostry.com to exercise rights; we respond within 45 days.</p>
+
+    <h3>Do Not Sell My Personal Information</h3>
+    <p>To opt out, email support@geostry.com or adjust device settings (e.g., <a href="http://www.networkadvertising.org/choices/">NAI Opt-Out</a>, <a href="http://optout.aboutads.info/?c=2&lang=EN">DAA Opt-Out</a>).</p>
+
+    <h3>Limit Use of Sensitive Personal Information</h3>
+    <p>Email support@geostry.com to limit sensitive data use.</p>
+
+    <h2>Children’s Privacy</h2>
+    <p>Our Service is not for children under 13. We do not knowingly collect their data. If we learn of such collection, we will delete it. Contact us if you believe a child’s data was collected.</p>
+
+    <h2>Links to Other Websites</h2>
+    <p>We are not responsible for third-party websites linked from our Service. Review their privacy policies.</p>
+
+    <h2>Changes to This Privacy Policy</h2>
+    <p>We may update this policy, notifying you via email or in-app notice. Changes are effective when posted. We review this policy regularly to ensure compliance.</p>
+
+    <h2>Contact Us</h2>
+    <ul>
+        <li>Email: support@geostry.com</li>
+        <li>Mail: Geostry LLC, 12605 W North Ave, Suite 302, Brookfield, WI 53005</li>
+    </ul>
+</body>
+</html>
